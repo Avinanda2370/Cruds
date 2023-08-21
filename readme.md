@@ -1,4 +1,4 @@
-# Django Profile Management System
+# Python django cruds project
 
 This project is a simple web application built using the Django framework for managing user profiles. It allows users to create, view, update, and delete profiles. The project includes functionalities such as uploading profile images, searching for profiles, and editing profile details.
 

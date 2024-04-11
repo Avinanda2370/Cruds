@@ -53,6 +53,9 @@ This project is a simple web application built using the Django framework for ma
 
 Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
 
+![Screenshot (337)](https://github.com/Avinanda2370/Cruds-app-django/assets/102664151/df379868-4cee-4ae5-bf47-6765807d5c23)
+
+
 
 ---
 
